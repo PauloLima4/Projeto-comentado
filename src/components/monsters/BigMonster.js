@@ -2,8 +2,8 @@ class BigMonster extends Character {
     constructor() {
         super('Big Monster')
         this.life = 120
-        this.attack = 15
-        this.defense = 3
+        this.attack = 16
+        this.defense = 6
         this.maxLife = this.life
     }
 }
